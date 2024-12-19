@@ -1,0 +1,6 @@
+name,price,weight,height,length,width,city
+Parcel A,100,3,10,15,5,HCMC
+Parcel B,150,4,15,20,10,Da Nang
+Oversized Parcel,800,180,100,50,50,Dalat
+Invalid Parcel,200,0,15,15,8,InvalidCity
+Future Parcel,300,15,10,20,10,Nha Trang
