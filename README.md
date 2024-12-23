@@ -6,6 +6,6 @@ To run the code you have to cd to the file that have the python folder. Use term
 
 To run the code run the command
 
-"python task2.py"
+"python task1.py"
 
 Then choose the select file : "parcels.csv"
